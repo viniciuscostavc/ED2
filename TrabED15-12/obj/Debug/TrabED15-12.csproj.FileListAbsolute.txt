@@ -1,0 +1,7 @@
+C:\Users\dougd\source\repos\TrabED15-12\TrabED15-12\bin\Debug\TrabED15-12.exe.config
+C:\Users\dougd\source\repos\TrabED15-12\TrabED15-12\bin\Debug\TrabED15-12.exe
+C:\Users\dougd\source\repos\TrabED15-12\TrabED15-12\bin\Debug\TrabED15-12.pdb
+C:\Users\dougd\source\repos\TrabED15-12\TrabED15-12\obj\Debug\TrabED15-12.csprojAssemblyReference.cache
+C:\Users\dougd\source\repos\TrabED15-12\TrabED15-12\obj\Debug\TrabED15-12.csproj.CoreCompileInputs.cache
+C:\Users\dougd\source\repos\TrabED15-12\TrabED15-12\obj\Debug\TrabED15-12.exe
+C:\Users\dougd\source\repos\TrabED15-12\TrabED15-12\obj\Debug\TrabED15-12.pdb
